@@ -1,1 +1,1 @@
-# FakeNewsDetection
+# NewsClassification
